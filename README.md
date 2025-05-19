@@ -1,8 +1,8 @@
-# GRUPO_7
+# GRUPO_7 master / develop / festure-nombre
 ISPC-TSDWAD
 Titulo del Proyecto: 
 Nombre tentativo: RUN-FAST
-Descripccion 
+Descripcion 
 Problema a resolver
 funcionalidades
 usuarios destinados
