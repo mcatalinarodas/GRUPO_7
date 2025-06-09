@@ -1,4 +1,4 @@
-# GRUPO_7 master / develop / festure-nombre
+:point_right: # GRUPO_7 master / develop / festure-nombre
 ISPC-TSDWAD
 Titulo del Proyecto: 
 Nombre tentativo: RUN-FAST
