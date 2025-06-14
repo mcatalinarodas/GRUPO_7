@@ -3,7 +3,7 @@ ISPC-TSDWAD
 Titulo del Proyecto: 
 Nombre tentativo: RUN-FAST
 Descripcion 
-Problema a resolver
+:loudspeaker: Problema a resolver
 funcionalidades
 usuarios destinados
 Integrantes del Equipo del trabajo
